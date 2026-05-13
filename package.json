@@ -1,14 +1,14 @@
 {
-    "name": "@rans-beep/bailss",
+    "name": "@Kiyoraelvi/Baile",
     "version": "2.0.3",
-    "description": "WhatsApp API Modification By Ranstech",
+    "description": "WhatsApp API Modification By KIYORAELVIREX",
     "keywords": [
         "whatsapp",
         "Ranstech"
     ],
-    "homepage": "https://github.com/rans-beep/bailss",
+    "homepage": "https://github.com/Kiyoraelvi/Baile",
     "repository": {
-        "url": "https://github.com/rans-beep/bailss"
+        "url": "https://github.com/Kiyoraelvi/Baile"
     },
     "license": "MIT",
     "author": "Adhiraj Singh",
@@ -46,7 +46,7 @@
         "futoin-hkdf": "^1.5.1",
         "libphonenumber-js": "^1.10.20",
         "lodash": "^4.17.21",
-        "libsignal": "github:rans-beep/libsignal-node",
+        "libsignal": "github:Kiyoraelvi/libsignal-node",
         "music-metadata": "^7.12.3",
         "node-cache": "^5.1.2",
         "node-fetch": "^2.6.1",
